@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanquoc0201&label=Profile%20views&color=0e75b6&style=flat" alt="vanquoc0201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanquoc0201" alt="vanquoc0201" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwA…+Hu9S8AA+tuVSd7K/4R8pmphRT60QIAAAAABJRU5ErkJggg==" alt="Vanquoc0201" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, NestJS, and System Design.**
 
